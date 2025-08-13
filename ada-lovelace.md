@@ -1,0 +1,4 @@
+Augusta Ada King, countess of Lovelace is considered the first computer programmer. Her prime work in this field was her work on the Analitical Engine. She met the creator of the Engine, Babbage, in 1833, becoming facinated with his "difference machine." After their fist meeting, she proceded to visit several times, going on walks and discussing mathematics. Around this time, she had written the famous Note G. This note was an algorithim for calculating a sieries of Bernoulli numbers using the Analytical Engine. However, as cited in the 1990 article Difference and Analytical Engines, and pulled from Wikipedia: "All but one of the programs cited in her notes had been prepared by Babbage from three to seven years earlier. The exception was prepared by Babbage for her, although she did detect a "bug" in it."
+
+
+Source: Wikipedia
