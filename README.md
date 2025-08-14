@@ -42,7 +42,7 @@ Return to your local machine's terminal.
 Use git pull to retrieve the timeline you created from your remote repository.
 Report Status:
 3.1: What command did you use to retrieve the new information from GitHub?
-Answer:
+Answer:git fetch + git pull
 Assignment 4: The Modern Era
 Now, let's add two more influential figures who shaped the modern era of computing.
 Instructions:
@@ -115,3 +115,12 @@ When you have completed all assignments and answered all of the "Report Status" 
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
+
+# Timeline of the Internet
+- 1969: ARPNET development begins
+- 1973: PARC Universal Packet
+- 1981: CSNET launch
+- 1986: DNS, TCP/IP, NSFNET launch
+- 1990: ARPNET decommisioned
+- 1991: WWW launched
+- mid-1990's: Fiber-Optic
