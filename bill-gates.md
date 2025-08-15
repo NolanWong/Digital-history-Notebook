@@ -1,0 +1,3 @@
+Bill gates of microsof fame is one of the richest people in tech. At age 17, Gates formed a venture with Allen called Traf-O-Data to make traffic counters based on the Intel 8008 processor. Gates then went to harvard, only staying for a few years. During this he kept in touch with Allen, and they later met up at Honeywell in 1974. When the Altair 8800 came out, Gates and Allen decided to start up their own company. Gates and Allen made, over the course of a few weeks, an emulator for BASIC on the Altair that ran on a microcomputer. Gates later left Harvard to go work with Allen at MITS, Allen was the one who named the partnership "Micro-Soft."
+
+Source: Wikipedia
